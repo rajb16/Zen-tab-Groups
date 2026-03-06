@@ -11,7 +11,7 @@
   "style": {
     "chrome": "chrome.css"
   },
-  "preferences": "https://raw.githubusercontent.com/rajb16/Zen-Tab-Groups/main/preferences.json",
+  "preferences": "preferences.json",
   "readme": "https://raw.githubusercontent.com/rajb16/Zen-Tab-Groups/main/README.md",
   "author": "Rajb16",
   "version": "1.14.1",
