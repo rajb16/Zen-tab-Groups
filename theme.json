@@ -3,7 +3,7 @@
   "name": "Zen Tab Groups",
   "description": "Tab Groups for Zen Browser",
   "scripts": {
-    "zen-tab-groups.uc.js": {
+    "advanced-tab-groups.uc.js": {
       "include": ["chrome://browser/content/browser.xhtml"]
     }
   },
