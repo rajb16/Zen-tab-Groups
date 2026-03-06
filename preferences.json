@@ -1,12 +1,5 @@
 [
   {
-    "property": "browser.tabs.groups.enabled",
-    "type": "checkbox",
-    "label": "Enable Tab Groups in the Zen Browser.",
-    "default": "true",
-    "force": "true"
-  },
-  {
     "type": "separator",
     "label": "Configurations"
   },
